@@ -14,7 +14,7 @@
    version="1.1"
    id="svg1278"
    sodipodi:docname="assets-pueril.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <metadata
      id="metadata1282">
     <rdf:RDF>
@@ -39,10 +39,10 @@
      inkscape:window-height="1006"
      id="namedview1280"
      showgrid="false"
-     inkscape:zoom="1.3315217"
-     inkscape:cx="56.364404"
-     inkscape:cy="14.347515"
-     inkscape:window-x="1366"
+     inkscape:zoom="5.3260868"
+     inkscape:cx="353.71872"
+     inkscape:cy="83.417163"
+     inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1278"
@@ -1206,7 +1206,7 @@
              fill="#db5b5b"
              opacity=".9"
              id="rect322"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="40.938"
              cy="1041.4"
@@ -1285,7 +1285,7 @@
              ry="11"
              fill="#db5b5b"
              id="rect348"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="40.938"
              cy="1041.4"
@@ -1707,7 +1707,7 @@
              ry="11"
              fill="#db5b5b"
              id="rect480"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="40.875"
              cy="1041.4"
@@ -1786,7 +1786,7 @@
              ry="11"
              fill="#db5b5b"
              id="rect506"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="40.875"
              cy="1041.4"
@@ -2297,7 +2297,7 @@
              ry="11"
              fill="#db5b5b"
              id="rect656"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="40.875"
              cy="1041.4"
@@ -2376,7 +2376,7 @@
              ry="11"
              fill="#db5b5b"
              id="rect682"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="40.875"
              cy="1041.4"
@@ -2430,7 +2430,7 @@
              d="m414 58a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7zm-3 3.9219h0.75c8e-3 -9e-5 0.0156-3.45e-4 0.0234 0 0.19121 0.0084 0.3824 0.09643 0.51562 0.23438l1.711 1.7109 1.7344-1.7109c0.19921-0.17288 0.335-0.22912 0.51562-0.23438h0.75v0.75c0 0.21485-0.0258 0.41299-0.1875 0.5625l-1.7109 1.7109 1.6875 1.6875c0.14114 0.14113 0.21093 0.34009 0.21094 0.53906v0.75h-0.75c-0.19898-8e-6 -0.39794-0.06982-0.53906-0.21094l-1.7109-1.7109-1.7109 1.7109c-0.14112 0.14114-0.34009 0.21094-0.53906 0.21094h-0.75v-0.75c0-0.19897 0.0698-0.39794 0.21094-0.53906l1.7109-1.6875-1.7109-1.7109c-0.15806-0.14597-0.22737-0.35194-0.21094-0.5625z"
              fill="#cc575d"
              id="path700"
-             style="fill:#73be81;fill-opacity:1" />
+             style="fill:#b9d97e;fill-opacity:1" />
         </g>
       </g>
     </g>
@@ -2753,7 +2753,7 @@
              fill="#f56b6b"
              opacity=".9"
              id="rect805"
-             style="fill:#ae7dd9;fill-opacity:1" />
+             style="fill:#f0544c;fill-opacity:1" />
           <circle
              cx="40.938"
              cy="1041.4"
@@ -2829,7 +2829,7 @@
              ry="11"
              fill="#f56b6b"
              id="rect831"
-             style="fill:#ae7dd9;fill-opacity:1" />
+             style="fill:#f0544c;fill-opacity:1" />
           <circle
              cx="40.875"
              cy="1041.4"
@@ -2905,7 +2905,7 @@
              ry="11"
              fill="#f56b6b"
              id="rect857"
-             style="fill:#ae7dd9;fill-opacity:1" />
+             style="fill:#f0544c;fill-opacity:1" />
           <circle
              cx="40.875"
              cy="1041.4"
@@ -3650,7 +3650,7 @@
              ry="11"
              fill="#db5b5b"
              id="rect1111"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="41.062"
              cy="1041.4"
@@ -3729,7 +3729,7 @@
              ry="11"
              fill="#db5b5b"
              id="rect1137"
-             style="fill:#9672ba;fill-opacity:1" />
+             style="fill:#d14c49;fill-opacity:1" />
           <circle
              cx="40.688"
              cy="1041.4"
@@ -4167,7 +4167,7 @@
              ry="11"
              fill="#f56b6b"
              id="rect1267"
-             style="fill:#ae7dd9;fill-opacity:1" />
+             style="fill:#f0544c;fill-opacity:1" />
           <circle
              cx="41.062"
              cy="1041.4"
